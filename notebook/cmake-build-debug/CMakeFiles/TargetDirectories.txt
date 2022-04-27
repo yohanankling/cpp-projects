@@ -1,0 +1,3 @@
+/home/yohanan/CLionProjects/notebook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yohanan/CLionProjects/notebook/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yohanan/CLionProjects/notebook/cmake-build-debug/CMakeFiles/notebook.dir
